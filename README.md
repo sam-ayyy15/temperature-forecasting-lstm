@@ -1,7 +1,7 @@
 # Temperature Forecasting with LSTM/RNN
 
 **Student:** SHETTY SAMAY DEEPAK  
-**BRANCH/SECTION:** CSE/C
+**BRANCH/SECTION:** CSE/C  
 **USN:** 4AL22CS143  
 **Assignment:** Deep Learning Temperature Forecasting  
 **Submission Date:** 5.9.2025
