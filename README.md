@@ -83,5 +83,3 @@ temperature-forecasting-lstm/
 
 
 ---
-
-**Note:** This project demonstrates advanced LSTM implementation for time series forecasting with comprehensive analysis and evaluation metrics. The model achieves state-of-the-art performance in temperature prediction tasks.
